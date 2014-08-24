@@ -1,1 +1,1 @@
-# stock.quant
+# stock picking wave
