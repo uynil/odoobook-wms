@@ -1,1 +1,0 @@
-# stock picking wave
